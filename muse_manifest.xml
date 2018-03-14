@@ -1,0 +1,21 @@
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="https://cs3form.github.io" resolutions="1x" timestamp="1521055823437">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_______-a.css" crc="3785017968" ref="index"/>
+    <file name="index.css" crc="30619935" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4148063285" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4179431180" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3765830709" ref="index"/>
+    <file name="jquery.watch.js" crc="437028206" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="require.js" crc="4159430777" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="media-share-0-02-05-9502c97f8d020c85492bcc1e6a0e4d113abd77d34cc16e313e7903c9f2612f0b-c45a8003-a630-4c83-b94a-2d9bd2132f1e.png" crc="352656381" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="158199175" seo="true" mt="1521055582137" redirect="true"/>
+</manifest>
